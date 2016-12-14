@@ -15,5 +15,5 @@ Compulsory assignment for our CS 2016 class.
 
 #Pics
 
-![Alt text](https://gyazo.com/a651d9fc4b9aebda5ef07626e03f4078 "SoundHive Player")
+![Alt text](https://s29.postimg.org/aleawjvp3/a651d9fc4b9aebda5ef07626e03f4078.png "SoundHive Player")
 ![Alt text](http://jfoenix.com/gif/treetableview.gif "Tree Table View")
